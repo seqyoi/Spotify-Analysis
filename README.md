@@ -9,24 +9,24 @@ Visualization of trends and patterns
 Key insights on preferences and usage
 
 ## Tech Stack
--Python 
--Pandas
--NumPy
--Matplotlib / Seaborn
+- Python 
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
 -Jupyter Notebook
 
 ## Project Structure
-Spotify-Analysis/
+Spotify-Analysis/ <br>
 │── spotify_an.ipynb   
 │── Spotify_data.xlsx            
 │── README.md          
 
 ## What I Analyzed
-Most users belong to 20-35 age group, indicating target audience concentration.
-Certain genres like Melody and Classical dominate listening preferences, showing clear user taste patterns.
-A significant portion of users use free plans, which could be an opportunity for premium conversion.
-Recommendation ratings suggest average satisfaction levels.
-Listening behavior peaks during night time slots, useful for targeted recommendations.
+- Most users belong to 20-35 age group, indicating target audience concentration. 
+- Certain genres like Melody and Classical dominate listening preferences, showing clear user taste patterns. 
+- A significant portion of users use free plans, which could be an opportunity for premium conversion. 
+- Recommendation ratings suggest average satisfaction levels. 
+- Listening behavior peaks during night time slots, useful for targeted recommendations.
 
 ## How to Run
 
@@ -48,12 +48,12 @@ Run the notebook:
 
 
 ## Future Improvements
-Add machine learning models for prediction
-Build a dashboard (Streamlit / Power BI)
-Use live Spotify API data
+- Add machine learning models for prediction 
+- Build a dashboard (Streamlit / Power BI) 
+- Use live Spotify API data
 
 
 ## Author
 
-Cilus Duwadi
+Cilus Duwadi  <br>
 GitHub: https://github.com/seqyoi
